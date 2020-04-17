@@ -1,11 +1,11 @@
 # My Section
-- [**JavaScript/HTML/CSS**](https://github.com/christopherstraub/dev-resources/blob/master/My-Resources/JavaScript-HTML-CSS.md): Documentation, reference, and tools.
+- [**JavaScript/HTML/CSS**](https://github.com/christopherstraub/dev-resources/blob/master/my-resources/JavaScript-HTML-CSS.md): Documentation, reference, and tools.
 
-- [**Design**](https://github.com/christopherstraub/dev-resources/blob/master/My-Resources/Design.md): Design assets and tools
+- [**Design**](https://github.com/christopherstraub/dev-resources/blob/master/my-resources/Design.md): Design assets and tools
 
-- [**Interview Prep**](https://github.com/christopherstraub/dev-resources/blob/master/My-Resources/InterviewPrep.md)
+- [**Interview Prep**](https://github.com/christopherstraub/dev-resources/blob/master/my-resources/InterviewPrep.md)
 
-- [**Miscellaneous**](https://github.com/christopherstraub/dev-resources/blob/master/My-Resources/Miscellaneous.md)
+- [**Miscellaneous**](https://github.com/christopherstraub/dev-resources/blob/master/my-resources/Miscellaneous.md)
 
 # Zero to Mastery Section
 
