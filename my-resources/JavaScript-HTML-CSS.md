@@ -64,6 +64,8 @@
 
 - [Smooth Scroll: animate scrolling to anchor links](https://github.com/cferdinandi/smooth-scroll)
 
+- [Parallax.js](http://pixelcog.github.io/parallax.js/)
+
 ### CSS
 
 - [Animate.css](https://daneden.github.io/animate.css/)  
@@ -79,3 +81,5 @@
 - [Tachyons CSS Toolkit](https://tachyons.io/)
 
 - [CSS clip-path generator](https://www.google.com/search?q=clip+path+generator&rlz=1C1GCEA_enUS838US838&oq=clip+pat&aqs=chrome.0.69i59j69i57j69i60.1419j0j1&sourceid=chrome&ie=UTF-8_)
+
+- [CSS3 Patterns Gallery](https://leaverou.github.io/css3patterns/)
