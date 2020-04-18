@@ -26,6 +26,8 @@
 
 - [unDraw: open-source illustrations](https://undraw.co/)
 
+- [WebStockReview: clip arts](https://webstockreview.net/)
+
 ## Tools
 
 - [Adobe Color](https://color.adobe.com/create)
