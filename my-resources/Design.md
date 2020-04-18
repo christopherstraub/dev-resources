@@ -50,4 +50,4 @@
 
 - [Card hover interactions](https://codepen.io/hexagoncircle/details/XWbWKwL)
 
--[Dust particle](https://codepen.io/uiswarup/details/oNXYNOB)
+- [Dust particle](https://codepen.io/uiswarup/details/oNXYNOB)
