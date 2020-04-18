@@ -15,8 +15,6 @@
 
 - [npm semantic version calculator](https://semver.npmjs.com/)
 
-- [Public APIs](https://public-apis.xyz/)
-
 - [Hunter: connect with businesses](https://hunter.io/)
 
 - [API list](https://apilist.fun/)
