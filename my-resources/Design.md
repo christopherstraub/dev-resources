@@ -28,6 +28,8 @@
 
 - [WebStockReview: clip arts](https://webstockreview.net/)
 
+- [Never run out of inspiration for your projects again with these 19 websites.](https://web.archive.org/web/20200911164036/https://www.reddit.com/r/webdev/comments/g4nk65/never_run_out_of_inspiration_for_your_projects/)
+
 ## Tools
 
 - [Adobe Color](https://color.adobe.com/create)
