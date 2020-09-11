@@ -1,5 +1,5 @@
 **[Back](/README.md/)**
-# JavaScript/HTML/CSS Documentation, Reference, and Tools
+# Code Documentation, Reference, and Tools
 
 ## Documentation and Reference
 
@@ -16,12 +16,6 @@
 
 - [Console API Reference](https://developers.google.com/web/tools/chrome-devtools/console/api)
 
-- [create-react-app Getting Started](https://create-react-app.dev/docs/getting-started/)
-
-- [React Documentation](https://reactjs.org/docs/getting-started.html)
-
-- [Deploying Create React App](https://create-react-app.dev/docs/deployment/#github-pages-https-pagesgithubcom)
-
 - [ECMAScript new features list](https://github.com/daumann/ECMAScript-new-features-list)
 
 ### HTML
@@ -30,15 +24,23 @@
 
 ### CSS
 
-- [cssreference.io](https://cssreference.io/)  
+- [cssreference.io](https://cssreference.io/)
 
-- [CSS Almanac](https://css-tricks.com/almanac/)  
+- [CSS Almanac](https://css-tricks.com/almanac/)
 
-- [CSS Selectors Reference](https://www.w3schools.com/cssref/css_selectors.asp) 
+- [CSS Selectors Reference](https://www.w3schools.com/cssref/css_selectors.asp)
 
-- [Clear floats clearfix](https://www.w3schools.com/howto/howto_css_clearfix.asp)  
+- [Clear floats clearfix](https://www.w3schools.com/howto/howto_css_clearfix.asp)
 
-- [Flexbox cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html)  
+- [Flexbox cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html)
+
+### React
+
+- [create-react-app Getting Started](https://create-react-app.dev/docs/getting-started/)
+
+- [React Documentation](https://reactjs.org/docs/getting-started.html)
+
+- [Deploying Create React App](https://create-react-app.dev/docs/deployment/#github-pages-https-pagesgithubcom)
 
 ## Tools
 
@@ -85,3 +87,7 @@
 - [CSS clip-path generator](https://www.google.com/search?q=clip+path+generator&rlz=1C1GCEA_enUS838US838&oq=clip+pat&aqs=chrome.0.69i59j69i57j69i60.1419j0j1&sourceid=chrome&ie=UTF-8_)
 
 - [CSS3 Patterns Gallery](https://leaverou.github.io/css3patterns/)
+
+### React
+
+- [React Table](https://react-table.tanstack.com/)
