@@ -66,6 +66,8 @@
 
 - [Parallax.js](http://pixelcog.github.io/parallax.js/)
 
+- [GSAP: animation](https://greensock.com/gsap/)
+
 ### CSS
 
 - [Animate.css](https://daneden.github.io/animate.css/)  
