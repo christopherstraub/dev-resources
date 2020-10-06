@@ -1,7 +1,7 @@
 # My Section
-- [**JavaScript/HTML/CSS**](https://github.com/christopherstraub/dev-resources/blob/master/my-resources/JavaScript-HTML-CSS.md): Documentation, reference, and tools.
+- [**Code Documentation, Reference, and Tools**](https://github.com/christopherstraub/dev-resources/blob/master/my-resources/Documentation-Reference-Tools.md)
 
-- [**Design**](https://github.com/christopherstraub/dev-resources/blob/master/my-resources/Design.md): Design assets and tools
+- [**Design**](https://github.com/christopherstraub/dev-resources/blob/master/my-resources/Design.md)
 
 - [**Interview Prep**](https://github.com/christopherstraub/dev-resources/blob/master/my-resources/InterviewPrep.md)
 
