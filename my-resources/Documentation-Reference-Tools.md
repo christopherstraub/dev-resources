@@ -88,6 +88,8 @@
 
 - [CSS3 Patterns Gallery](https://leaverou.github.io/css3patterns/)
 
+- [Seamless Responsive Photo Grid](https://css-tricks.com/seamless-responsive-photo-grid/)
+
 ### React
 
 - [React Table](https://react-table.tanstack.com/)
