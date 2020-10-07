@@ -90,6 +90,8 @@
 
 - [Seamless Responsive Photo Grid](https://css-tricks.com/seamless-responsive-photo-grid/)
 
+- [Smooth Scrolling](https://css-tricks.com/snippets/jquery/smooth-scrolling/)
+
 ### React
 
 - [React Table](https://react-table.tanstack.com/)
