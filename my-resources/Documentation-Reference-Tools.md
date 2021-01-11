@@ -34,6 +34,10 @@
 
 - [Flexbox cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html)
 
+- [Tachyons Docs](https://tachyons.io/docs/)
+
+- [Tailwind CSS Docs](https://tailwindcss.com/docs)
+
 ### React
 
 - [create-react-app Getting Started](https://create-react-app.dev/docs/getting-started/)
@@ -81,8 +85,6 @@
 - [Autoprefixer add vendor prefixes](https://autoprefixer.github.io/)  
 
 - [Bulma responsive helpers](https://bulma.io/documentation/modifiers/responsive-helpers/) 
-
-- [Tachyons CSS Toolkit](https://tachyons.io/)
 
 - [CSS clip-path generator](https://www.google.com/search?q=clip+path+generator&rlz=1C1GCEA_enUS838US838&oq=clip+pat&aqs=chrome.0.69i59j69i57j69i60.1419j0j1&sourceid=chrome&ie=UTF-8_)
 
