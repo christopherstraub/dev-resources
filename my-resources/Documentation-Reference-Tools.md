@@ -34,10 +34,6 @@
 
 - [Flexbox cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html)
 
-- [Tachyons Docs](https://tachyons.io/docs/)
-
-- [Tailwind CSS Docs](https://tailwindcss.com/docs)
-
 ### React
 
 - [create-react-app Getting Started](https://create-react-app.dev/docs/getting-started/)
@@ -93,6 +89,12 @@
 - [Seamless Responsive Photo Grid](https://css-tricks.com/seamless-responsive-photo-grid/)
 
 - [Smooth Scrolling](https://css-tricks.com/snippets/jquery/smooth-scrolling/)
+
+- [Tachyons Docs](https://tachyons.io/docs/)
+
+- [Tailwind CSS Docs](https://tailwindcss.com/docs)
+
+- [Hex Opacity Table](https://davidwalsh.name/hex-opacity)
 
 ### React
 
